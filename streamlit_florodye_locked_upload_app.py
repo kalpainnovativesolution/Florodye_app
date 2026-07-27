@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-from streamlit_florodye_app import (
+from streamlit_florodye_locked_upload_app import (
     SUPPORTED_EXTENSIONS,
     SpotMeasurement,
     bgr_to_rgb,
